@@ -1,0 +1,2191 @@
+{
+    "results": [
+      {
+        "fsq_id": "59f784dd28122f14f9d5d63d",
+        "categories": [
+          {
+            "id": 13034,
+            "name": "Café",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_",
+              "suffix": ".png"
+            }
+          },
+          {
+            "id": 13035,
+            "name": "Coffee Shop",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+              "suffix": ".png"
+            }
+          },
+          {
+            "id": 13065,
+            "name": "Restaurant",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+              "suffix": ".png"
+            }
+          }
+        ],
+        "chains": [],
+        "distance": 114,
+        "geocodes": {
+          "main": {
+            "latitude": 43.65036434800487,
+            "longitude": -79.38866907575726
+          }
+        },
+        "location": {
+          "address": "245 Queen St W",
+          "country": "CA",
+          "cross_street": "at St Patrick St",
+          "formatted_address": "245 Queen St W (at St Patrick St), Toronto ON M5V 1Z4",
+          "locality": "Toronto",
+          "neighborhood": [
+            "Downtown Toronto"
+          ],
+          "postcode": "M5V 1Z4",
+          "region": "ON"
+        },
+        "name": "HotBlack Coffee",
+        "related_places": {},
+        "timezone": "America/Toronto"
+      },
+      {
+        "fsq_id": "567f0344498eabd7d5b5e1fd",
+        "categories": [
+          {
+            "id": 13065,
+            "name": "Restaurant",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+              "suffix": ".png"
+            }
+          },
+          {
+            "id": 13032,
+            "name": "Cafes, Coffee, and Tea Houses",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+              "suffix": ".png"
+            }
+          }
+        ],
+        "chains": [
+          {
+            "id": "d5719cc0-d890-0132-61d3-7a163eb2a6fc",
+            "name": "Tim Hortons"
+          }
+        ],
+        "distance": 124,
+        "geocodes": {
+          "main": {
+            "latitude": 43.649256502895255,
+            "longitude": -79.3911512196064
+          }
+        },
+        "location": {
+          "address": "150 John St",
+          "address_extended": "Unit 102",
+          "country": "CA",
+          "cross_street": "Richmond",
+          "formatted_address": "150 John St (Richmond), Toronto ON M5V 3E3",
+          "locality": "Toronto",
+          "neighborhood": [
+            "Downtown Toronto"
+          ],
+          "postcode": "M5V 3E3",
+          "region": "ON"
+        },
+        "name": "Tim Hortons",
+        "related_places": {},
+        "timezone": "America/Toronto"
+      },
+      {
+        "fsq_id": "4f53aff7e4b07de37cecddf3",
+        "categories": [
+          {
+            "id": 13035,
+            "name": "Coffee Shop",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+              "suffix": ".png"
+            }
+          },
+          {
+            "id": 13065,
+            "name": "Restaurant",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+              "suffix": ".png"
+            }
+          }
+        ],
+        "chains": [],
+        "distance": 192,
+        "geocodes": {
+          "main": {
+            "latitude": 43.64829161679981,
+            "longitude": -79.39039040155937
+          }
+        },
+        "location": {
+          "address": "125 John St",
+          "country": "CA",
+          "cross_street": "btwn Adelaide & Richmond St. W",
+          "formatted_address": "125 John St (btwn Adelaide & Richmond St. W), Toronto ON M5V 2E2",
+          "locality": "Toronto",
+          "neighborhood": [
+            "Entertainment District"
+          ],
+          "postcode": "M5V 2E2",
+          "region": "ON"
+        },
+        "name": "Dark Horse Espresso Bar",
+        "related_places": {},
+        "timezone": "America/Toronto"
+      },
+      {
+        "fsq_id": "52c1b80d11d28f9d514dcf50",
+        "categories": [
+          {
+            "id": 13034,
+            "name": "Café",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_",
+              "suffix": ".png"
+            }
+          },
+          {
+            "id": 13035,
+            "name": "Coffee Shop",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+              "suffix": ".png"
+            }
+          },
+          {
+            "id": 13065,
+            "name": "Restaurant",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+              "suffix": ".png"
+            }
+          }
+        ],
+        "chains": [],
+        "distance": 128,
+        "geocodes": {
+          "main": {
+            "latitude": 43.65114970183438,
+            "longitude": -79.39014599464723
+          }
+        },
+        "location": {
+          "address": "29 Mc Caul St",
+          "country": "CA",
+          "cross_street": "",
+          "formatted_address": "29 Mc Caul St, Toronto ON M5T 1V7",
+          "locality": "Toronto",
+          "neighborhood": [
+            "Downtown Toronto"
+          ],
+          "postcode": "M5T 1V7",
+          "region": "ON"
+        },
+        "name": "Red Eye Espresso",
+        "related_places": {},
+        "timezone": "America/Toronto"
+      },
+      {
+        "fsq_id": "4b2a8ac5f964a52014ab24e3",
+        "categories": [
+          {
+            "id": 13034,
+            "name": "Café",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_",
+              "suffix": ".png"
+            }
+          },
+          {
+            "id": 13035,
+            "name": "Coffee Shop",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+              "suffix": ".png"
+            }
+          },
+          {
+            "id": 13145,
+            "name": "Fast Food Restaurant",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/fastfood_",
+              "suffix": ".png"
+            }
+          }
+        ],
+        "chains": [],
+        "distance": 89,
+        "geocodes": {
+          "main": {
+            "latitude": 43.649449080710994,
+            "longitude": -79.39081262624394
+          }
+        },
+        "location": {
+          "address": "150 John St",
+          "country": "CA",
+          "cross_street": "Richmond",
+          "formatted_address": "150 John St (Richmond), Toronto ON M5V 3E3",
+          "locality": "Toronto",
+          "neighborhood": [
+            "Entertainment District"
+          ],
+          "postcode": "M5V 3E3",
+          "region": "ON"
+        },
+        "name": "Sandwich Table",
+        "related_places": {},
+        "timezone": "America/Toronto"
+      },
+      {
+        "fsq_id": "4ae60299f964a52003a421e3",
+        "categories": [
+          {
+            "id": 13032,
+            "name": "Cafes, Coffee, and Tea Houses",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+              "suffix": ".png"
+            }
+          }
+        ],
+        "chains": [],
+        "distance": 177,
+        "geocodes": {
+          "main": {
+            "latitude": 43.650751,
+            "longitude": -79.388047
+          }
+        },
+        "location": {
+          "address": "180 Queen St W",
+          "address_extended": "Suite 102.3A",
+          "country": "CA",
+          "cross_street": "at Simcoe St.",
+          "formatted_address": "180 Queen St W (at Simcoe St.), Toronto ON M5V 3X3",
+          "locality": "Toronto",
+          "neighborhood": [
+            "Fashion District"
+          ],
+          "postcode": "M5V 3X3",
+          "region": "ON"
+        },
+        "name": "Starbucks",
+        "related_places": {},
+        "timezone": "America/Toronto"
+      },
+      {
+        "fsq_id": "54f5f80e498e300bbba1e5be",
+        "categories": [
+          {
+            "id": 13034,
+            "name": "Café",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_",
+              "suffix": ".png"
+            }
+          }
+        ],
+        "chains": [],
+        "distance": 216,
+        "geocodes": {
+          "main": {
+            "latitude": 43.648059,
+            "longitude": -79.389791
+          }
+        },
+        "location": {
+          "address": "266 Adelaide St W",
+          "country": "CA",
+          "cross_street": "John Street",
+          "formatted_address": "266 Adelaide St W (John Street), Toronto ON",
+          "locality": "Toronto",
+          "postcode": "",
+          "region": "ON"
+        },
+        "name": "Rialto Espresso Bar",
+        "related_places": {},
+        "timezone": "America/Toronto"
+      },
+      {
+        "fsq_id": "4adf41a5f964a520d07821e3",
+        "categories": [
+          {
+            "id": 13034,
+            "name": "Café",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_",
+              "suffix": ".png"
+            }
+          },
+          {
+            "id": 13035,
+            "name": "Coffee Shop",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+              "suffix": ".png"
+            }
+          },
+          {
+            "id": 13065,
+            "name": "Restaurant",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+              "suffix": ".png"
+            }
+          }
+        ],
+        "chains": [],
+        "distance": 105,
+        "geocodes": {
+          "main": {
+            "latitude": 43.6496822,
+            "longitude": -79.3912423
+          }
+        },
+        "location": {
+          "address": "307 Queen St W",
+          "country": "CA",
+          "cross_street": "at John St.",
+          "formatted_address": "307 Queen St W (at John St.), Toronto ON M5V 2A4",
+          "locality": "Toronto",
+          "neighborhood": [
+            "Downtown Toronto"
+          ],
+          "postcode": "M5V 2A4",
+          "region": "ON"
+        },
+        "name": "Second Cup Coffee Co",
+        "related_places": {},
+        "timezone": "America/Toronto"
+      },
+      {
+        "fsq_id": "4b118485f964a520537e23e3",
+        "categories": [
+          {
+            "id": 13034,
+            "name": "Café",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_",
+              "suffix": ".png"
+            }
+          },
+          {
+            "id": 13035,
+            "name": "Coffee Shop",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+              "suffix": ".png"
+            }
+          }
+        ],
+        "chains": [],
+        "distance": 133,
+        "geocodes": {
+          "main": {
+            "latitude": 43.64894287065428,
+            "longitude": -79.39079150395187
+          }
+        },
+        "location": {
+          "address": "142 John St",
+          "country": "CA",
+          "cross_street": "at Richmond",
+          "formatted_address": "142 John St (at Richmond), Toronto ON M5V 2E3",
+          "locality": "Toronto",
+          "neighborhood": [
+            "Entertainment District"
+          ],
+          "postcode": "M5V 2E3",
+          "region": "ON"
+        },
+        "name": "Starbucks",
+        "related_places": {},
+        "timezone": "America/Toronto"
+      },
+      {
+        "fsq_id": "5434033a498ed37e3c6bb440",
+        "categories": [
+          {
+            "id": 13035,
+            "name": "Coffee Shop",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+              "suffix": ".png"
+            }
+          }
+        ],
+        "chains": [
+          {
+            "id": "ab4c54c0-d68a-012e-5619-003048cad9da",
+            "name": "Starbucks"
+          }
+        ],
+        "distance": 336,
+        "geocodes": {
+          "main": {
+            "latitude": 43.647586,
+            "longitude": -79.392531
+          }
+        },
+        "location": {
+          "address": "338 Adelaide St W",
+          "address_extended": "Unit 2",
+          "country": "CA",
+          "cross_street": "Adelaide and Peter",
+          "formatted_address": "338 Adelaide St W (Adelaide and Peter), Toronto ON M5V 1R4",
+          "locality": "Toronto",
+          "neighborhood": [
+            "Downtown Toronto"
+          ],
+          "postcode": "M5V 1R4",
+          "region": "ON"
+        },
+        "name": "Starbucks",
+        "related_places": {},
+        "timezone": "America/Toronto"
+      },
+      {
+        "fsq_id": "5b6c842bc36588002c80a934",
+        "categories": [
+          {
+            "id": 13034,
+            "name": "Café",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_",
+              "suffix": ".png"
+            }
+          },
+          {
+            "id": 13065,
+            "name": "Restaurant",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+              "suffix": ".png"
+            }
+          }
+        ],
+        "chains": [],
+        "distance": 397,
+        "geocodes": {
+          "main": {
+            "latitude": 43.64875349932059,
+            "longitude": -79.3853673607289
+          }
+        },
+        "location": {
+          "address": "165 University Ave",
+          "country": "CA",
+          "cross_street": "Adelaide St W",
+          "formatted_address": "165 University Ave (Adelaide St W), Toronto ON M5H 3B8",
+          "locality": "Toronto",
+          "neighborhood": [
+            "Downtown Toronto"
+          ],
+          "postcode": "M5H 3B8",
+          "region": "ON"
+        },
+        "name": "Cafe Landwer",
+        "related_places": {},
+        "timezone": "America/Toronto"
+      },
+      {
+        "fsq_id": "55044e53498ea628556dd45b",
+        "categories": [
+          {
+            "id": 13034,
+            "name": "Café",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_",
+              "suffix": ".png"
+            }
+          },
+          {
+            "id": 13035,
+            "name": "Coffee Shop",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+              "suffix": ".png"
+            }
+          }
+        ],
+        "chains": [],
+        "distance": 218,
+        "geocodes": {
+          "main": {
+            "latitude": 43.64818057810645,
+            "longitude": -79.38895775013378
+          }
+        },
+        "location": {
+          "address": "266 Adelaide St W",
+          "country": "CA",
+          "cross_street": "",
+          "formatted_address": "266 Adelaide St W, Toronto ON",
+          "locality": "Toronto",
+          "postcode": "",
+          "region": "ON"
+        },
+        "name": "Milano Coffee",
+        "related_places": {},
+        "timezone": "America/Toronto"
+      },
+      {
+        "fsq_id": "5227fd9d7e48b6c9c707f4fa",
+        "categories": [
+          {
+            "id": 13034,
+            "name": "Café",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_",
+              "suffix": ".png"
+            }
+          },
+          {
+            "id": 13065,
+            "name": "Restaurant",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+              "suffix": ".png"
+            }
+          }
+        ],
+        "chains": [],
+        "distance": 392,
+        "geocodes": {
+          "main": {
+            "latitude": 43.647595917807365,
+            "longitude": -79.38641938975012
+          }
+        },
+        "location": {
+          "address": "150 King St W",
+          "country": "CA",
+          "cross_street": "The PATH @ King & University",
+          "formatted_address": "150 King St W (The PATH @ King & University), Toronto ON M5H 1J9",
+          "locality": "Toronto",
+          "neighborhood": [
+            "Financial District"
+          ],
+          "postcode": "M5H 1J9",
+          "region": "ON"
+        },
+        "name": "Astarté Fresh Yogurt Bar",
+        "related_places": {},
+        "timezone": "America/Toronto"
+      },
+      {
+        "fsq_id": "537cc373498eb7fac0656552",
+        "categories": [
+          {
+            "id": 13032,
+            "name": "Cafes, Coffee, and Tea Houses",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+              "suffix": ".png"
+            }
+          }
+        ],
+        "chains": [],
+        "distance": 323,
+        "geocodes": {
+          "main": {
+            "latitude": 43.649464712058546,
+            "longitude": -79.3860424294661
+          }
+        },
+        "location": {
+          "address": "145 Richmond St W",
+          "address_extended": "Unit 102",
+          "country": "CA",
+          "cross_street": "Hilton Toronto",
+          "formatted_address": "145 Richmond St W (Hilton Toronto), Toronto ON M5H 2L2",
+          "locality": "Toronto",
+          "neighborhood": [
+            "Downtown Toronto"
+          ],
+          "postcode": "M5H 2L2",
+          "region": "ON"
+        },
+        "name": "Starbucks",
+        "related_places": {
+          "parent": {
+            "fsq_id": "4a9d0a53f964a520d23720e3",
+            "name": "Hilton Toronto"
+          }
+        },
+        "timezone": "America/Toronto"
+      },
+      {
+        "fsq_id": "56cc7553498e506adf9b28df",
+        "categories": [
+          {
+            "id": 13034,
+            "name": "Café",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_",
+              "suffix": ".png"
+            }
+          },
+          {
+            "id": 13065,
+            "name": "Restaurant",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+              "suffix": ".png"
+            }
+          }
+        ],
+        "chains": [],
+        "distance": 332,
+        "geocodes": {
+          "main": {
+            "latitude": 43.64809460904021,
+            "longitude": -79.3931911174398
+          }
+        },
+        "location": {
+          "address": "120 Peter St",
+          "country": "CA",
+          "cross_street": "at Richmond St W",
+          "formatted_address": "120 Peter St (at Richmond St W), Toronto ON M5V 2G7",
+          "locality": "Toronto",
+          "neighborhood": [
+            "Downtown Toronto"
+          ],
+          "postcode": "M5V 2G7",
+          "region": "ON"
+        },
+        "name": "Cafe Jules",
+        "related_places": {},
+        "timezone": "America/Toronto"
+      },
+      {
+        "fsq_id": "56706795498e64120cb554e3",
+        "categories": [
+          {
+            "id": 13035,
+            "name": "Coffee Shop",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+              "suffix": ".png"
+            }
+          }
+        ],
+        "chains": [],
+        "distance": 378,
+        "geocodes": {
+          "main": {
+            "latitude": 43.64812368827817,
+            "longitude": -79.39392246152059
+          }
+        },
+        "location": {
+          "address": "401 Richmond St W",
+          "country": "CA",
+          "cross_street": "",
+          "formatted_address": "401 Richmond St W, Toronto ON M5V 3A8",
+          "locality": "Toronto",
+          "neighborhood": [
+            "Downtown Toronto"
+          ],
+          "postcode": "M5V 3A8",
+          "region": "ON"
+        },
+        "name": "Dark Horse Espresso Bar",
+        "related_places": {},
+        "timezone": "America/Toronto"
+      },
+      {
+        "fsq_id": "5a6b737b35f98359eed11974",
+        "categories": [
+          {
+            "id": 13035,
+            "name": "Coffee Shop",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+              "suffix": ".png"
+            }
+          },
+          {
+            "id": 13065,
+            "name": "Restaurant",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+              "suffix": ".png"
+            }
+          }
+        ],
+        "chains": [],
+        "distance": 495,
+        "geocodes": {
+          "main": {
+            "latitude": 43.65441282740799,
+            "longitude": -79.39090161351724
+          }
+        },
+        "location": {
+          "address": "281 Dundas St W",
+          "country": "CA",
+          "cross_street": "St Patrick And Dundas St W",
+          "formatted_address": "281 Dundas St W (St Patrick And Dundas St W), Toronto ON M5T 1G1",
+          "locality": "Toronto",
+          "neighborhood": [
+            "Downtown Toronto"
+          ],
+          "postcode": "M5T 1G1",
+          "region": "ON"
+        },
+        "name": "The Library Specialty Coffee",
+        "related_places": {},
+        "timezone": "America/Toronto"
+      },
+      {
+        "fsq_id": "5a3a846af62e0960e9364d11",
+        "categories": [
+          {
+            "id": 13035,
+            "name": "Coffee Shop",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+              "suffix": ".png"
+            }
+          },
+          {
+            "id": 13065,
+            "name": "Restaurant",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+              "suffix": ".png"
+            }
+          }
+        ],
+        "chains": [],
+        "distance": 476,
+        "geocodes": {
+          "main": {
+            "latitude": 43.65065218852629,
+            "longitude": -79.38414092873634
+          }
+        },
+        "location": {
+          "address": "111 Richmond St W",
+          "country": "CA",
+          "cross_street": "York",
+          "formatted_address": "111 Richmond St W (York), Toronto ON M5H 2G4",
+          "locality": "Toronto",
+          "neighborhood": [
+            "Downtown Toronto"
+          ],
+          "postcode": "M5H 2G4",
+          "region": "ON"
+        },
+        "name": "Bulldog on the Block",
+        "related_places": {
+          "parent": {
+            "fsq_id": "5a32970da42362290203a9d6",
+            "name": "Assembly Chef's Hall"
+          }
+        },
+        "timezone": "America/Toronto"
+      },
+      {
+        "fsq_id": "5549600a498efd3848129bc1",
+        "categories": [
+          {
+            "id": 13065,
+            "name": "Restaurant",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+              "suffix": ".png"
+            }
+          },
+          {
+            "id": 13032,
+            "name": "Cafes, Coffee, and Tea Houses",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+              "suffix": ".png"
+            }
+          }
+        ],
+        "chains": [
+          {
+            "id": "d5719cc0-d890-0132-61d3-7a163eb2a6fc",
+            "name": "Tim Hortons"
+          }
+        ],
+        "distance": 382,
+        "geocodes": {
+          "main": {
+            "latitude": 43.6485154402442,
+            "longitude": -79.3857101351568
+          }
+        },
+        "location": {
+          "address": "170 University Ave",
+          "country": "CA",
+          "cross_street": "",
+          "formatted_address": "170 University Ave, Toronto ON M5H 3B3",
+          "locality": "Toronto",
+          "neighborhood": [
+            "Entertainment District"
+          ],
+          "postcode": "M5H 3B3",
+          "region": "ON"
+        },
+        "name": "Tim Hortons",
+        "related_places": {},
+        "timezone": "America/Toronto"
+      },
+      {
+        "fsq_id": "4f513029e4b07c3382c9fdb9",
+        "categories": [
+          {
+            "id": 13145,
+            "name": "Fast Food Restaurant",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/fastfood_",
+              "suffix": ".png"
+            }
+          }
+        ],
+        "chains": [],
+        "distance": 509,
+        "geocodes": {
+          "main": {
+            "latitude": 43.65457125894357,
+            "longitude": -79.38944976536852
+          }
+        },
+        "location": {
+          "address": "250 Dundas St W",
+          "country": "CA",
+          "cross_street": "Simcoe Street",
+          "formatted_address": "250 Dundas St W (Simcoe Street), Toronto ON M5T 2Z5",
+          "locality": "Toronto",
+          "neighborhood": [
+            "Downtown Toronto"
+          ],
+          "postcode": "M5T 2Z5",
+          "region": "ON"
+        },
+        "name": "Cafe Plenty",
+        "related_places": {},
+        "timezone": "America/Toronto"
+      },
+      {
+        "fsq_id": "4b7449f6f964a520d2d22de3",
+        "categories": [
+          {
+            "id": 13032,
+            "name": "Cafes, Coffee, and Tea Houses",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+              "suffix": ".png"
+            }
+          }
+        ],
+        "chains": [
+          {
+            "id": "d5713b70-d890-0132-61d3-7a163eb2a6fc",
+            "name": "Second Cup"
+          }
+        ],
+        "distance": 392,
+        "geocodes": {
+          "main": {
+            "latitude": 43.648943996155815,
+            "longitude": -79.3853421833653
+          }
+        },
+        "location": {
+          "address": "165 University Ave",
+          "address_extended": "# 349",
+          "country": "CA",
+          "cross_street": "at Adelaide St. W",
+          "formatted_address": "165 University Ave (at Adelaide St. W), Toronto ON M5H 3B8",
+          "locality": "Toronto",
+          "neighborhood": [
+            "Financial District"
+          ],
+          "postcode": "M5H 3B8",
+          "region": "ON"
+        },
+        "name": "Second Cup",
+        "related_places": {},
+        "timezone": "America/Toronto"
+      },
+      {
+        "fsq_id": "4fccaa8fe4b05a98df3d9417",
+        "categories": [
+          {
+            "id": 13034,
+            "name": "Café",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_",
+              "suffix": ".png"
+            }
+          },
+          {
+            "id": 13035,
+            "name": "Coffee Shop",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+              "suffix": ".png"
+            }
+          },
+          {
+            "id": 13065,
+            "name": "Restaurant",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+              "suffix": ".png"
+            }
+          }
+        ],
+        "chains": [],
+        "distance": 513,
+        "geocodes": {
+          "main": {
+            "latitude": 43.64788137014028,
+            "longitude": -79.38433152836829
+          }
+        },
+        "location": {
+          "address": "150 King St W",
+          "country": "CA",
+          "cross_street": "in the PATH",
+          "formatted_address": "150 King St W (in the PATH), Toronto ON M5H 1J9",
+          "locality": "Toronto",
+          "neighborhood": [
+            "Financial District"
+          ],
+          "postcode": "M5H 1J9",
+          "region": "ON"
+        },
+        "name": "Sam James Coffee Bar",
+        "related_places": {},
+        "timezone": "America/Toronto"
+      },
+      {
+        "fsq_id": "4c07a2532e80a593fedb75f9",
+        "categories": [
+          {
+            "id": 13035,
+            "name": "Coffee Shop",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+              "suffix": ".png"
+            }
+          },
+          {
+            "id": 13064,
+            "name": "Pizzeria",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/pizza_",
+              "suffix": ".png"
+            }
+          },
+          {
+            "id": 13068,
+            "name": "American Restaurant",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+              "suffix": ".png"
+            }
+          }
+        ],
+        "chains": [],
+        "distance": 303,
+        "geocodes": {
+          "main": {
+            "latitude": 43.64901385191496,
+            "longitude": -79.39352086543202
+          }
+        },
+        "location": {
+          "address": "375 Queen St W",
+          "country": "CA",
+          "cross_street": "Peter Street",
+          "formatted_address": "375 Queen St W (Peter Street), Toronto ON M5V 2A5",
+          "locality": "Toronto",
+          "neighborhood": [
+            "Entertainment District"
+          ],
+          "postcode": "M5V 2A5",
+          "region": "ON"
+        },
+        "name": "Little Nicky's Coffee",
+        "related_places": {},
+        "timezone": "America/Toronto"
+      },
+      {
+        "fsq_id": "4b9e710df964a5201ee436e3",
+        "categories": [
+          {
+            "id": 13032,
+            "name": "Cafes, Coffee, and Tea Houses",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+              "suffix": ".png"
+            }
+          }
+        ],
+        "chains": [
+          {
+            "id": "d5713b70-d890-0132-61d3-7a163eb2a6fc",
+            "name": "Second Cup"
+          }
+        ],
+        "distance": 402,
+        "geocodes": {
+          "main": {
+            "latitude": 43.6488124,
+            "longitude": -79.3852663
+          }
+        },
+        "location": {
+          "address": "145 King St W",
+          "country": "CA",
+          "cross_street": "at York St",
+          "formatted_address": "145 King St W (at York St), Toronto ON M5H 1J8",
+          "locality": "Toronto",
+          "neighborhood": [
+            "Financial District"
+          ],
+          "postcode": "M5H 1J8",
+          "region": "ON"
+        },
+        "name": "Second Cup",
+        "related_places": {},
+        "timezone": "America/Toronto"
+      },
+      {
+        "fsq_id": "56565c11498e8b4edcd48a62",
+        "categories": [
+          {
+            "id": 13035,
+            "name": "Coffee Shop",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+              "suffix": ".png"
+            }
+          }
+        ],
+        "chains": [],
+        "distance": 310,
+        "geocodes": {
+          "main": {
+            "latitude": 43.64864479076422,
+            "longitude": -79.39337860596659
+          }
+        },
+        "location": {
+          "address": "134 Peter",
+          "country": "CA",
+          "cross_street": "Queen St",
+          "formatted_address": "134 Peter (Queen St), Toronto ON M5V 2H2",
+          "locality": "Toronto",
+          "postcode": "M5V 2H2",
+          "region": "ON"
+        },
+        "name": "Early Bird Espresso & Brew Bar QRC",
+        "related_places": {
+          "parent": {
+            "fsq_id": "5624fbaf498eccd9fd858aea",
+            "name": "Queen Richmond Centre West"
+          }
+        },
+        "timezone": "America/Toronto"
+      },
+      {
+        "fsq_id": "4c8e727b58668cfa1925d2ec",
+        "categories": [
+          {
+            "id": 13034,
+            "name": "Café",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_",
+              "suffix": ".png"
+            }
+          },
+          {
+            "id": 13035,
+            "name": "Coffee Shop",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+              "suffix": ".png"
+            }
+          },
+          {
+            "id": 13039,
+            "name": "Deli",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/deli_",
+              "suffix": ".png"
+            }
+          }
+        ],
+        "chains": [],
+        "distance": 536,
+        "geocodes": {
+          "main": {
+            "latitude": 43.648282339042105,
+            "longitude": -79.39623145239167
+          }
+        },
+        "location": {
+          "address": "152 Spadina Ave",
+          "country": "CA",
+          "cross_street": "at Richmond St W",
+          "formatted_address": "152 Spadina Ave (at Richmond St W), Toronto ON M5V 2L8",
+          "locality": "Toronto",
+          "neighborhood": [
+            "Fashion District"
+          ],
+          "postcode": "M5V 2L8",
+          "region": "ON"
+        },
+        "name": "Le Gourmand",
+        "related_places": {},
+        "timezone": "America/Toronto"
+      },
+      {
+        "fsq_id": "57f2c4f6498e6e70a25bfeb8",
+        "categories": [
+          {
+            "id": 13035,
+            "name": "Coffee Shop",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+              "suffix": ".png"
+            }
+          }
+        ],
+        "chains": [],
+        "distance": 428,
+        "geocodes": {
+          "main": {
+            "latitude": 43.64671841166018,
+            "longitude": -79.38720887911505
+          }
+        },
+        "location": {
+          "address": "200 Wellington St W",
+          "country": "CA",
+          "cross_street": "John St",
+          "formatted_address": "200 Wellington St W (John St), Toronto ON M5V 3G2",
+          "locality": "Toronto",
+          "postcode": "M5V 3G2",
+          "region": "ON"
+        },
+        "name": "Starbucks",
+        "related_places": {
+          "parent": {
+            "fsq_id": "4afd96f2f964a520dc2822e3",
+            "name": "MetroCentre"
+          }
+        },
+        "timezone": "America/Toronto"
+      },
+      {
+        "fsq_id": "54132b3b498ee9ca9332e189",
+        "categories": [
+          {
+            "id": 13034,
+            "name": "Café",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_",
+              "suffix": ".png"
+            }
+          },
+          {
+            "id": 13035,
+            "name": "Coffee Shop",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+              "suffix": ".png"
+            }
+          },
+          {
+            "id": 13065,
+            "name": "Restaurant",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+              "suffix": ".png"
+            }
+          }
+        ],
+        "chains": [],
+        "distance": 535,
+        "geocodes": {
+          "main": {
+            "latitude": 43.65121797253777,
+            "longitude": -79.38355459932247
+          }
+        },
+        "location": {
+          "address": "123 Queen St W",
+          "address_extended": "Unit C24",
+          "country": "CA",
+          "cross_street": "",
+          "formatted_address": "123 Queen St W, Toronto ON M5H 3M9",
+          "locality": "Toronto",
+          "neighborhood": [
+            "Financial District"
+          ],
+          "postcode": "M5H 3M9",
+          "region": "ON"
+        },
+        "name": "M Square Coffee Co",
+        "related_places": {
+          "parent": {
+            "fsq_id": "4ab2d511f964a5209b6c20e3",
+            "name": "Sheraton Centre Toronto Hotel"
+          }
+        },
+        "timezone": "America/Toronto"
+      },
+      {
+        "fsq_id": "59e2064fdff815657b758cda",
+        "categories": [
+          {
+            "id": 13035,
+            "name": "Coffee Shop",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+              "suffix": ".png"
+            }
+          },
+          {
+            "id": 13065,
+            "name": "Restaurant",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+              "suffix": ".png"
+            }
+          }
+        ],
+        "chains": [],
+        "distance": 494,
+        "geocodes": {
+          "main": {
+            "latitude": 43.6543408802583,
+            "longitude": -79.39135490977962
+          }
+        },
+        "location": {
+          "address": "298 Dundas St W",
+          "country": "CA",
+          "cross_street": "",
+          "formatted_address": "298 Dundas St W, Toronto ON M5T 1G2",
+          "locality": "Toronto",
+          "postcode": "M5T 1G2",
+          "region": "ON"
+        },
+        "name": "Carafted Bean",
+        "related_places": {},
+        "timezone": "America/Toronto"
+      },
+      {
+        "fsq_id": "528e195b11d2ad1ecaef8c8c",
+        "categories": [
+          {
+            "id": 13035,
+            "name": "Coffee Shop",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+              "suffix": ".png"
+            }
+          },
+          {
+            "id": 13036,
+            "name": "Tea Room",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/tearoom_",
+              "suffix": ".png"
+            }
+          }
+        ],
+        "chains": [],
+        "distance": 535,
+        "geocodes": {
+          "main": {
+            "latitude": 43.650546552943766,
+            "longitude": -79.38338493349875
+          }
+        },
+        "location": {
+          "address": "120 Adelaide St W",
+          "address_extended": "Unit R4",
+          "country": "CA",
+          "cross_street": "",
+          "formatted_address": "120 Adelaide St W, Toronto ON M5H 1T1",
+          "locality": "Toronto",
+          "neighborhood": [
+            "Downtown Toronto"
+          ],
+          "postcode": "M5H 1T1",
+          "region": "ON"
+        },
+        "name": "DAVIDsTEA",
+        "related_places": {
+          "parent": {
+            "fsq_id": "4c45f5ecf88dc9282254ae75",
+            "name": "Richmond Adelaide Child Care Centre"
+          }
+        },
+        "timezone": "America/Toronto"
+      },
+      {
+        "fsq_id": "59add6d3c824ae7692f4a8e9",
+        "categories": [
+          {
+            "id": 13034,
+            "name": "Café",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_",
+              "suffix": ".png"
+            }
+          },
+          {
+            "id": 13065,
+            "name": "Restaurant",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+              "suffix": ".png"
+            }
+          }
+        ],
+        "chains": [],
+        "distance": 528,
+        "geocodes": {
+          "main": {
+            "latitude": 43.64547783756122,
+            "longitude": -79.39205169247865
+          }
+        },
+        "location": {
+          "address": "80 Blue Jays Way",
+          "country": "CA",
+          "cross_street": "Mercer",
+          "formatted_address": "80 Blue Jays Way (Mercer), Toronto ON M5V 2G3",
+          "locality": "Toronto",
+          "neighborhood": [
+            "Downtown Toronto"
+          ],
+          "postcode": "M5V 2G3",
+          "region": "ON"
+        },
+        "name": "French Made",
+        "related_places": {
+          "parent": {
+            "fsq_id": "577fea50498e818708a837ab",
+            "name": "Bisha Hotel"
+          }
+        },
+        "timezone": "America/Toronto"
+      },
+      {
+        "fsq_id": "4b7bedfbf964a5204e742fe3",
+        "categories": [
+          {
+            "id": 13034,
+            "name": "Café",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_",
+              "suffix": ".png"
+            }
+          },
+          {
+            "id": 13035,
+            "name": "Coffee Shop",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+              "suffix": ".png"
+            }
+          }
+        ],
+        "chains": [],
+        "distance": 421,
+        "geocodes": {
+          "main": {
+            "latitude": 43.65373019161559,
+            "longitude": -79.39098314529086
+          }
+        },
+        "location": {
+          "address": "109 Mc Caul St",
+          "address_extended": "# 34",
+          "country": "CA",
+          "cross_street": "Dundas St W (The Grange)",
+          "formatted_address": "109 Mc Caul St (Dundas St W (The Grange)), Toronto ON M5T 3K5",
+          "locality": "Toronto",
+          "neighborhood": [
+            "Downtown Toronto"
+          ],
+          "postcode": "M5T 3K5",
+          "region": "ON"
+        },
+        "name": "Coffee Exchange",
+        "related_places": {
+          "parent": {
+            "fsq_id": "5dab8315db235600087b2d3d",
+            "name": "Village by the Grange Food Court"
+          }
+        },
+        "timezone": "America/Toronto"
+      },
+      {
+        "fsq_id": "53db870e498e43c1f94399b9",
+        "categories": [
+          {
+            "id": 13035,
+            "name": "Coffee Shop",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+              "suffix": ".png"
+            }
+          }
+        ],
+        "chains": [],
+        "distance": 417,
+        "geocodes": {
+          "main": {
+            "latitude": 43.64679651935794,
+            "longitude": -79.3872918394925
+          }
+        },
+        "location": {
+          "address": "225 King St E",
+          "country": "CA",
+          "cross_street": "",
+          "formatted_address": "225 King St E, Toronto ON M5A 1J9",
+          "locality": "Toronto",
+          "postcode": "M5A 1J9",
+          "region": "ON"
+        },
+        "name": "Starbucks",
+        "related_places": {},
+        "timezone": "America/Toronto"
+      },
+      {
+        "fsq_id": "58a1d1a8326c5a3a1c150a60",
+        "categories": [
+          {
+            "id": 13035,
+            "name": "Coffee Shop",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+              "suffix": ".png"
+            }
+          }
+        ],
+        "chains": [],
+        "distance": 585,
+        "geocodes": {
+          "main": {
+            "latitude": 43.646301465741814,
+            "longitude": -79.39518379105066
+          }
+        },
+        "location": {
+          "address": "101 Spadina Ave",
+          "country": "CA",
+          "cross_street": "btwn Adelaide St W & Oxley St",
+          "formatted_address": "101 Spadina Ave (btwn Adelaide St W & Oxley St), Toronto ON M5V 2K2",
+          "locality": "Toronto",
+          "postcode": "M5V 2K2",
+          "region": "ON"
+        },
+        "name": "Strange Love",
+        "related_places": {},
+        "timezone": "America/Toronto"
+      },
+      {
+        "fsq_id": "4c7ff787d92ea09314913372",
+        "categories": [
+          {
+            "id": 13034,
+            "name": "Café",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_",
+              "suffix": ".png"
+            }
+          }
+        ],
+        "chains": [],
+        "distance": 344,
+        "geocodes": {
+          "main": {
+            "latitude": 43.652656856993644,
+            "longitude": -79.39220591467274
+          }
+        },
+        "location": {
+          "address": "317 Dundas St W",
+          "country": "CA",
+          "cross_street": "Dundas and maccull",
+          "formatted_address": "317 Dundas St W (Dundas and maccull), Toronto ON M5T 1G4",
+          "locality": "Toronto",
+          "neighborhood": [
+            "Downtown Toronto"
+          ],
+          "postcode": "M5T 1G4",
+          "region": "ON"
+        },
+        "name": "Grange Historic House",
+        "related_places": {},
+        "timezone": "America/Toronto"
+      },
+      {
+        "fsq_id": "4b0ab071f964a520682623e3",
+        "categories": [
+          {
+            "id": 13034,
+            "name": "Café",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_",
+              "suffix": ".png"
+            }
+          },
+          {
+            "id": 13035,
+            "name": "Coffee Shop",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+              "suffix": ".png"
+            }
+          },
+          {
+            "id": 13145,
+            "name": "Fast Food Restaurant",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/fastfood_",
+              "suffix": ".png"
+            }
+          }
+        ],
+        "chains": [],
+        "distance": 348,
+        "geocodes": {
+          "main": {
+            "latitude": 43.64769705985879,
+            "longitude": -79.39293883122964
+          }
+        },
+        "location": {
+          "address": "111 Peter St",
+          "address_extended": "# 100",
+          "country": "CA",
+          "cross_street": "adelaide",
+          "formatted_address": "111 Peter St (adelaide), Toronto ON M5V 2H1",
+          "locality": "Toronto",
+          "neighborhood": [
+            "Entertainment District"
+          ],
+          "postcode": "M5V 2H1",
+          "region": "ON"
+        },
+        "name": "Croissant Tree",
+        "related_places": {},
+        "timezone": "America/Toronto"
+      },
+      {
+        "fsq_id": "4ad76dadf964a520530a21e3",
+        "categories": [
+          {
+            "id": 13034,
+            "name": "Café",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_",
+              "suffix": ".png"
+            }
+          },
+          {
+            "id": 13035,
+            "name": "Coffee Shop",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+              "suffix": ".png"
+            }
+          },
+          {
+            "id": 13334,
+            "name": "Sandwich Restaurant",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/deli_",
+              "suffix": ".png"
+            }
+          }
+        ],
+        "chains": [],
+        "distance": 567,
+        "geocodes": {
+          "main": {
+            "latitude": 43.65056381026066,
+            "longitude": -79.39701810600826
+          }
+        },
+        "location": {
+          "address": "215 Spadina Ave",
+          "address_extended": "Suite 102",
+          "country": "CA",
+          "cross_street": "at Sullivan St.",
+          "formatted_address": "215 Spadina Ave (at Sullivan St.), Toronto ON M5T 2C7",
+          "locality": "Toronto",
+          "neighborhood": [
+            "Grange Park"
+          ],
+          "postcode": "M5T 2C7",
+          "region": "ON"
+        },
+        "name": "Dark Horse Espresso Bar",
+        "related_places": {},
+        "timezone": "America/Toronto"
+      },
+      {
+        "fsq_id": "4b30134bf964a520a7f524e3",
+        "categories": [
+          {
+            "id": 13032,
+            "name": "Cafes, Coffee, and Tea Houses",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+              "suffix": ".png"
+            }
+          }
+        ],
+        "chains": [
+          {
+            "id": "d5713b70-d890-0132-61d3-7a163eb2a6fc",
+            "name": "Second Cup"
+          }
+        ],
+        "distance": 399,
+        "geocodes": {
+          "main": {
+            "latitude": 43.6464095,
+            "longitude": -79.3898718
+          }
+        },
+        "location": {
+          "address": "287 King St W",
+          "address_extended": "# 287",
+          "country": "CA",
+          "cross_street": "John St.",
+          "formatted_address": "287 King St W (John St.), Toronto ON M5V 1J5",
+          "locality": "Toronto",
+          "neighborhood": [
+            "Entertainment District"
+          ],
+          "postcode": "M5V 1J5",
+          "region": "ON"
+        },
+        "name": "Second Cup",
+        "related_places": {},
+        "timezone": "America/Toronto"
+      },
+      {
+        "fsq_id": "4af1f426f964a520b9e421e3",
+        "categories": [
+          {
+            "id": 13032,
+            "name": "Cafes, Coffee, and Tea Houses",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+              "suffix": ".png"
+            }
+          }
+        ],
+        "chains": [],
+        "distance": 419,
+        "geocodes": {
+          "main": {
+            "latitude": 43.64645,
+            "longitude": -79.391759
+          }
+        },
+        "location": {
+          "address": "370 King St W",
+          "country": "CA",
+          "cross_street": "at Peter St",
+          "formatted_address": "370 King St W (at Peter St), Toronto ON M5V 1J9",
+          "locality": "Toronto",
+          "postcode": "M5V 1J9",
+          "region": "ON"
+        },
+        "name": "Starbucks",
+        "related_places": {
+          "parent": {
+            "fsq_id": "78410efe4e1549b19e03f6e5",
+            "name": "Hyatt Regency Toronto"
+          }
+        },
+        "timezone": "America/Toronto"
+      },
+      {
+        "fsq_id": "5c1a5699f870fd002cea01c9",
+        "categories": [
+          {
+            "id": 13035,
+            "name": "Coffee Shop",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+              "suffix": ".png"
+            }
+          }
+        ],
+        "chains": [],
+        "distance": 385,
+        "geocodes": {
+          "main": {
+            "latitude": 43.646766,
+            "longitude": -79.38825
+          }
+        },
+        "location": {
+          "address": "225 King St W",
+          "country": "CA",
+          "cross_street": "Duncan St",
+          "formatted_address": "225 King St W (Duncan St), Toronto ON M5V 3M2",
+          "locality": "Toronto",
+          "postcode": "M5V 3M2",
+          "region": "ON"
+        },
+        "name": "Jacked Up Coffee",
+        "related_places": {},
+        "timezone": "America/Toronto"
+      },
+      {
+        "fsq_id": "4ae9f5b9f964a52002b821e3",
+        "categories": [
+          {
+            "id": 13034,
+            "name": "Café",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_",
+              "suffix": ".png"
+            }
+          }
+        ],
+        "chains": [],
+        "distance": 496,
+        "geocodes": {
+          "main": {
+            "latitude": 43.6541461873951,
+            "longitude": -79.39231147264867
+          }
+        },
+        "location": {
+          "address": "317 Dundas St W",
+          "country": "CA",
+          "cross_street": "",
+          "formatted_address": "317 Dundas St W, Toronto ON M5T 1G4",
+          "locality": "Toronto",
+          "neighborhood": [
+            "Downtown Toronto"
+          ],
+          "postcode": "M5T 1G4",
+          "region": "ON"
+        },
+        "name": "AGO Espresso Bar",
+        "related_places": {
+          "parent": {
+            "fsq_id": "4ad4c05ef964a520daf620e3",
+            "name": "Art Gallery of Ontario"
+          }
+        },
+        "timezone": "America/Toronto"
+      },
+      {
+        "fsq_id": "4bd054759854d13acd75f74d",
+        "categories": [
+          {
+            "id": 13032,
+            "name": "Cafes, Coffee, and Tea Houses",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+              "suffix": ".png"
+            }
+          }
+        ],
+        "chains": [],
+        "distance": 583,
+        "geocodes": {
+          "main": {
+            "latitude": 43.645594,
+            "longitude": -79.386063
+          }
+        },
+        "location": {
+          "address": "155 Wellington St W",
+          "address_extended": "# 137 RBC Centre",
+          "country": "CA",
+          "cross_street": "at Simcoe St.",
+          "formatted_address": "155 Wellington St W (at Simcoe St.), Toronto ON M5V 3H1",
+          "locality": "Toronto",
+          "neighborhood": [
+            "Entertainment District"
+          ],
+          "postcode": "M5V 3H1",
+          "region": "ON"
+        },
+        "name": "Starbucks",
+        "related_places": {},
+        "timezone": "America/Toronto"
+      },
+      {
+        "fsq_id": "5c5a865bbe7078002c14a735",
+        "categories": [
+          {
+            "id": 13035,
+            "name": "Coffee Shop",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+              "suffix": ".png"
+            }
+          }
+        ],
+        "chains": [
+          {
+            "id": "ab4c54c0-d68a-012e-5619-003048cad9da",
+            "name": "Starbucks"
+          }
+        ],
+        "distance": 539,
+        "geocodes": {
+          "main": {
+            "latitude": 43.654413,
+            "longitude": -79.387201
+          }
+        },
+        "location": {
+          "address": "439 University Ave",
+          "address_extended": "# 101",
+          "country": "CA",
+          "cross_street": "",
+          "formatted_address": "439 University Ave, Toronto ON M5G 1Y8",
+          "locality": "Toronto",
+          "postcode": "M5G 1Y8",
+          "region": "ON"
+        },
+        "name": "Starbucks",
+        "related_places": {},
+        "timezone": "America/Toronto"
+      },
+      {
+        "fsq_id": "4b03ff12f964a520cd5022e3",
+        "categories": [
+          {
+            "id": 13034,
+            "name": "Café",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_",
+              "suffix": ".png"
+            }
+          },
+          {
+            "id": 13035,
+            "name": "Coffee Shop",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+              "suffix": ".png"
+            }
+          },
+          {
+            "id": 13145,
+            "name": "Fast Food Restaurant",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/fastfood_",
+              "suffix": ".png"
+            }
+          }
+        ],
+        "chains": [],
+        "distance": 562,
+        "geocodes": {
+          "main": {
+            "latitude": 43.64716843096524,
+            "longitude": -79.39579321704292
+          }
+        },
+        "location": {
+          "address": "116 Spadina Ave",
+          "address_extended": "G2",
+          "country": "CA",
+          "cross_street": "",
+          "formatted_address": "116 Spadina Ave, Toronto ON M5V 2K6",
+          "locality": "Toronto",
+          "neighborhood": [
+            "Fashion District"
+          ],
+          "postcode": "M5V 2K6",
+          "region": "ON"
+        },
+        "name": "Mini Bar",
+        "related_places": {},
+        "timezone": "America/Toronto"
+      },
+      {
+        "fsq_id": "4ed4fab94fc69836161a23ee",
+        "categories": [
+          {
+            "id": 13032,
+            "name": "Cafes, Coffee, and Tea Houses",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+              "suffix": ".png"
+            }
+          }
+        ],
+        "chains": [],
+        "distance": 519,
+        "geocodes": {
+          "main": {
+            "latitude": 43.6459141542367,
+            "longitude": -79.39313093484667
+          }
+        },
+        "location": {
+          "address": "373 King St W",
+          "address_extended": "Ground Floor",
+          "country": "CA",
+          "cross_street": "at Blue Jays Way",
+          "formatted_address": "373 King St W (at Blue Jays Way), Toronto ON M5V 1K5",
+          "locality": "Toronto",
+          "neighborhood": [
+            "Entertainment District"
+          ],
+          "postcode": "M5V 1K5",
+          "region": "ON"
+        },
+        "name": "Starbucks",
+        "related_places": {},
+        "timezone": "America/Toronto"
+      },
+      {
+        "fsq_id": "4bf424fbe5eba593884e1f90",
+        "categories": [
+          {
+            "id": 13035,
+            "name": "Coffee Shop",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+              "suffix": ".png"
+            }
+          }
+        ],
+        "chains": [],
+        "distance": 475,
+        "geocodes": {
+          "main": {
+            "latitude": 43.649242646419395,
+            "longitude": -79.38418101332182
+          }
+        },
+        "location": {
+          "address": "150 York St",
+          "address_extended": "# 522",
+          "country": "CA",
+          "cross_street": "Adelaide",
+          "formatted_address": "150 York St (Adelaide), Toronto ON M5H 3S5",
+          "locality": "Toronto",
+          "neighborhood": [
+            "Financial District"
+          ],
+          "postcode": "M5H 3S5",
+          "region": "ON"
+        },
+        "name": "Timothys World Coffee",
+        "related_places": {},
+        "timezone": "America/Toronto"
+      },
+      {
+        "fsq_id": "55c3c666498eb25dd1ab5b81",
+        "categories": [
+          {
+            "id": 13036,
+            "name": "Tea Room",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/tearoom_",
+              "suffix": ".png"
+            }
+          }
+        ],
+        "chains": [],
+        "distance": 557,
+        "geocodes": {
+          "main": {
+            "latitude": 43.65355515034301,
+            "longitude": -79.3949009030638
+          }
+        },
+        "location": {
+          "address": "414 Dundas St E",
+          "country": "CA",
+          "cross_street": "",
+          "formatted_address": "414 Dundas St E, Toronto ON M5A 2A8",
+          "locality": "Toronto",
+          "neighborhood": [
+            "Downtown Toronto"
+          ],
+          "postcode": "M5A 2A8",
+          "region": "ON"
+        },
+        "name": "Presotea",
+        "related_places": {},
+        "timezone": "America/Toronto"
+      },
+      {
+        "fsq_id": "50770411e4b0d837f3a0c398",
+        "categories": [
+          {
+            "id": 13065,
+            "name": "Restaurant",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+              "suffix": ".png"
+            }
+          },
+          {
+            "id": 13032,
+            "name": "Cafes, Coffee, and Tea Houses",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+              "suffix": ".png"
+            }
+          }
+        ],
+        "chains": [
+          {
+            "id": "d5719cc0-d890-0132-61d3-7a163eb2a6fc",
+            "name": "Tim Hortons"
+          }
+        ],
+        "distance": 499,
+        "geocodes": {
+          "main": {
+            "latitude": 43.6483481,
+            "longitude": -79.3842282
+          }
+        },
+        "location": {
+          "address": "150 King St W",
+          "address_extended": "Unit C110",
+          "country": "CA",
+          "cross_street": "in Sun Life Financial Tower, concourse",
+          "formatted_address": "150 King St W (in Sun Life Financial Tower, concourse), Toronto ON M5J 1J9",
+          "locality": "Toronto",
+          "neighborhood": [
+            "Financial District"
+          ],
+          "postcode": "M5J 1J9",
+          "region": "ON"
+        },
+        "name": "Tim Hortons",
+        "related_places": {
+          "parent": {
+            "fsq_id": "4cdbf870930af04d0ea08d97",
+            "name": "Sun Life Financial"
+          }
+        },
+        "timezone": "America/Toronto"
+      },
+      {
+        "fsq_id": "5bdb42f93af988002c24bc8d",
+        "categories": [
+          {
+            "id": 13035,
+            "name": "Coffee Shop",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_",
+              "suffix": ".png"
+            }
+          }
+        ],
+        "chains": [],
+        "distance": 560,
+        "geocodes": {
+          "main": {
+            "latitude": 43.648528,
+            "longitude": -79.383335
+          }
+        },
+        "location": {
+          "address": "130 King St W",
+          "country": "CA",
+          "cross_street": "",
+          "formatted_address": "130 King St W, Toronto ON M5X 2A2",
+          "locality": "Toronto",
+          "postcode": "M5X 2A2",
+          "region": "ON"
+        },
+        "name": "Starbucks",
+        "related_places": {},
+        "timezone": "America/Toronto"
+      },
+      {
+        "fsq_id": "4b02fd43f964a520b14b22e3",
+        "categories": [
+          {
+            "id": 13032,
+            "name": "Cafes, Coffee, and Tea Houses",
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+              "suffix": ".png"
+            }
+          }
+        ],
+        "chains": [],
+        "distance": 543,
+        "geocodes": {
+          "main": {
+            "latitude": 43.649928,
+            "longitude": -79.383247
+          }
+        },
+        "location": {
+          "address": "120 Adelaide St W",
+          "address_extended": "Path",
+          "country": "CA",
+          "cross_street": "at York St.",
+          "formatted_address": "120 Adelaide St W (at York St.), Toronto ON M5H 1T1",
+          "locality": "Toronto",
+          "neighborhood": [
+            "Downtown Toronto"
+          ],
+          "postcode": "M5H 1T1",
+          "region": "ON"
+        },
+        "name": "Starbucks",
+        "related_places": {},
+        "timezone": "America/Toronto"
+      }
+    ],
+    "context": {
+      "geo_bounds": {
+        "circle": {
+          "center": {
+            "latitude": 43.65,
+            "longitude": -79.39
+          },
+          "radius": 600
+        }
+      }
+    }
+  }
